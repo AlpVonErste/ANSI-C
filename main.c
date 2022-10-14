@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Erstellen Sie bitte eine rekursive Funktion, die (in Abhängigkeit von den Übergabewerten für Breite und Höhe) ein Rechteck zeichnet.
+*/
+
 rechteck1(int breite, int hoehe)
 {
     for(int i=0; i<hoehe; i++)
