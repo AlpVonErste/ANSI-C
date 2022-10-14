@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Pragramm wandelt alle Kleinbuchstaben zu Grossbuchstaben.
+*/
+
 grosschreiben(char arr[], int length)
 {
     for(int i=0; i<length; i++)
