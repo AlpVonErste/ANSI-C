@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-Pragramm wandelt alle Kleinbuchstaben zu Grossbuchstaben.
+Pragramm wandelt alle Kleinbuchstaben zu Grossbuchstaben um.
 */
 
 grosschreiben(char arr[], int length)
