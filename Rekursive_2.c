@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Erstellen Sie bitte eine rekursive Funktion, die in Abhängigkeit vom ganzzahligen Übergabewert dessen „Quersumme“ zurückgibt.
+*/
+
 quersummeNormal(int zahl)
 {
     int arr[101], help = zahl, summe = 0, counter=0;
